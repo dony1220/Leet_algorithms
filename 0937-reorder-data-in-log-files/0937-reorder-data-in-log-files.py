@@ -9,7 +9,8 @@ class Solution:
             # x.split()[0] 동일시? -> 식별자 기준으로 정렬한다
             #rightㅅ
         return l+d
-#3. log-lambda
+
+    #3. log-lambda
 
 # logs = ["dig1 8 1 5 1",
 #         "let1 art can",
